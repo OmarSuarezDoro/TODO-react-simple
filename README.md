@@ -11,9 +11,6 @@ This project is a sleek and responsive ToDo List application built using React. 
 - [Components Overview](#components-overview)
   - [ToDoPanel Component](#todopanel-component)
   - [Task Component](#task-component)
-- [Styling](#styling)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
